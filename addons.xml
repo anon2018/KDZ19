@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<addons>
+<addon id="repository.KDA19" name="KDZ" version="0.0.1" provider-name="KDZ">
+	<extension point="xbmc.addon.repository" name="KDZ">
+	<dir>
+		<info compressed="false">https://raw.githubusercontent.com/anon2018/KDZ19/master/addons.xml</info>
+		<checksum>https://raw.githubusercontent.com/anon2018/KDZ19/addons.xml.md5</checksum>
+		<datadir zip="true">https://github.com/anon2018/KDZ19/raw/master/zip</datadir>
+	</dir>	
+	</extension>
+	<extension point="xbmc.addon.metadata">
+		<summary>Repozytorium  KDZ</summary>
+		<description>Zawartość repozytorium ma charakter niekomercyjny i jest tworzona dla zabawy. Wtyczki i repozytoria są znalezione w sieci i nie są moją własnością</description> 
+		<platform>all</platform>
+		<license>GNUv3</license>
+		<website></website>
+		<assets> <!-- poprawka ikon -->
+			<icon>icon.png</icon>
+			<fanart>fanart.jpg</fanart>			
+		</assets>
+	</extension>
+</addon>
+</addons>
